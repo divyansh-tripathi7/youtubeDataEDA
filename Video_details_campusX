@@ -1,0 +1,949 @@
+,Title,Published_date,Views,Likes,Comments,Month
+0,"Session 20 - Merging, Joining & Concatenating + Pandas I/O | DSMP 2022-23",2022-12-21,0,2,0,Dec
+1,Session 19 - GroupBy Object in Pandas | Data Science Mentorship Program (DSMP) 2022-23,2022-12-20,2259,125,3,Dec
+2,Problems with RNN | 100 Days of Deep Learning,2022-12-19,719,52,18,Dec
+3,Session 18 - Important DataFrame Methods | Data Science Mentorship Program (DSMP) 2022-23,2022-12-15,3609,147,3,Dec
+4,Session 17 - Pandas DataFrame | Data Science Mentorship Program (DSMP) 2022-23 | Free Session,2022-12-14,3442,133,6,Dec
+5,Important Series Methods | Supplementary Session | DSMP 2022-23,2022-12-14,1691,85,11,Dec
+6,Session 16 - Pandas Series| Data Science Mentorship Program (DSMP) 2022-23 | Free Session,2022-12-13,4418,212,4,Dec
+7,Session 15 - Numpy Tricks | Data Science Mentorship Program (DSMP) 2022-23 | Free Session,2022-12-08,4064,162,14,Dec
+8,Session 14 - Advanced Numpy | Data Science Mentorship Program (DSMP) 2022-23 | Free Session,2022-12-08,4734,205,8,Dec
+9,Feedback Form for November | Data Science Mentorship Program(DSMP) 2022-23,2022-12-07,1142,47,14,Dec
+10,Session 13 - Numpy Fundamentals | Data Science Mentorship Program (DSMP) 2022-23 | Free Session,2022-12-06,6835,275,12,Dec
+11,Resume Building for Data Scientist | Career Pe Charcha | DSMP 2022-23,2022-12-05,6202,377,24,Dec
+12,How Backpropagation works in RNN | Backpropagation Through Time,2022-12-01,1609,81,36,Dec
+13,Schedule for December + Program Improvements | CampusX Data Science Mentorship Program (DSMP 2022),2022-12-01,5100,203,77,Dec
+14,Session 12 - Decorators & Namespaces | DSMP 2022 - 23,2022-12-01,3907,186,13,Dec
+15,Session 11 - Exception Handling & Modules and Packages | DSMP 2022 - 23,2022-11-30,3829,273,13,Nov
+16,Session 10 - File Handling + Serialization & Deserialization | DSMP 2022 - 23,2022-11-28,5105,232,12,Nov
+17,What is Abstraction | OOP Concept,2022-11-26,2682,103,10,Nov
+18,New Website Launch | DSMP 2022-23,2022-11-25,4729,195,57,Nov
+19,OOP Part 3 | Inheritance & Polymorphism | Static | Data Science Mentorship Program(DSMP) 2022-23,2022-11-24,6413,248,12,Nov
+20,OOP Part 2 | Encapsulation & Static Keyword | Static | Data Science Mentorship Program(DSMP) 2022-23,2022-11-23,7535,277,13,Nov
+21,OOP Part 1 | Class & Object | Data Science Mentorship Program(DSMP) 2022-23,2022-11-21,13166,631,45,Nov
+22,Interview with Shyam | Fresher Data Scientist | 11+ LPA,2022-11-21,10911,587,35,Nov
+23,Types of RNN | Many to Many | One to Many | Many to One RNNs,2022-11-17,1841,108,23,Nov
+24,Session 6 - Functions in Python | Data Science Mentorship Program(DSMP) 2022-23,2022-11-16,9439,372,31,Nov
+25,Session 5 - Tuples + Sets + Dictionary | Data Science Mentorship Program(DSMP) 2022-23,2022-11-15,7140,329,13,Nov
+26,Session 4 - Lists in Python | Data Science Mentorship Program(DSMP) 2022-23,2022-11-14,9017,293,12,Nov
+27,How to Build a Portfolio Website for Data Science,2022-11-10,9242,469,40,Nov
+28,Programming Problems on Strings | Session 3 Supplementary Session,2022-11-10,4808,168,26,Nov
+29,Session 3 - Python Strings  | CampusX Data Science Mentorship Program | 9th Nov 2022,2022-11-09,11711,320,19,Nov
+30,RNN Code Example in Keras | Recurrent Neural Networks Sentiment Analysis,2022-11-09,2070,127,26,Nov
+31,Session 2 - Operators + If-Else + Loops  | CampusX Data Science Mentorship Program | 8th Nov 2022,2022-11-08,13116,433,26,Nov
+32,Session 1 - Python Fundamentals | CampusX Data Science Mentorship Program | 7th Nov 2022,2022-11-07,23783,902,64,Nov
+33,CampusX Data Science Mentorship Program Orientation Session,2022-11-03,7426,373,39,Nov
+34,Recurrent Neural Network | Forward Propagation | Architecture,2022-10-29,3167,184,37,Oct
+35,CampusX Data Science Mentorship Program Live QnA,2022-10-26,8503,471,44,Oct
+36,Why RNNs are needed | RNNs Vs ANNs | RNN Part 1,2022-10-23,3629,184,29,Oct
+37,Top 10 Computer Vision Projects | Best Computer Vision Projects using OpenCV & CNN,2022-10-17,5827,290,27,Oct
+38,Keras Functional Model | How to build non-linear Neural Networks?,2022-10-14,2082,148,21,Oct
+39,What is Transfer Learning? Transfer Learning in Keras | Fine Tuning Vs Feature Extraction,2022-10-10,5326,264,43,Oct
+40,What does a CNN see? | Visualizing CNN Filters and Feature Maps,2022-10-06,2443,153,27,Oct
+41,Pretrained models in CNN | ImageNET Dataset | ILSVRC | Keras Code,2022-10-03,2881,176,33,Oct
+42,Top 3 books for Machine Learning,2022-09-24,11252,1156,20,Sep
+43,Is DSA Required to learn Data Science?,2022-09-23,13240,1155,37,Sep
+44,Data Augmentation in Deep Learning,2022-09-21,3951,218,40,Sep
+45,Cat Vs Dog Image Classification Project | Deep Learning Project | CNN Project,2022-09-19,10759,330,48,Sep
+46,"CNN Backpropagation Part 2 | How Backpropagation works on Convolution, Maxpooling and Flatten Layers",2022-09-15,2159,169,24,Sep
+47,Why You Need To learn AI And Machine Learning Right Now?,2022-09-13,32678,1735,188,Sep
+48,Backpropagation in CNN | Part 1,2022-09-10,2947,227,22,Sep
+49,CNN Vs ANN,2022-09-08,3482,235,31,Sep
+50,Software Engineer to  Data Scientist | TheMathCompany | 10+ LPA Package,2022-09-06,6592,304,23,Sep
+51,CNN Architecture | LeNet -5 Architecture,2022-09-04,3076,195,26,Sep
+52,Pooling Layer in CNN | MaxPooling in Convolutional Neural Network,2022-09-02,3109,208,19,Sep
+53,Should I Start A Mentorship Program | Need Suggestions,2022-08-31,3089,347,201,Aug
+54,How to learn difficult Data Science concepts | My Learning Method,2022-08-29,5258,468,35,Aug
+55,Padding & Strides in CNN | CNN Lecture 4,2022-08-27,2981,197,21,Aug
+56,Google SQL Interview Question | User Session Histogram,2022-08-25,4484,308,23,Aug
+57,CNN Part 3 | Convolution Operation,2022-08-23,3603,231,23,Aug
+58,Data Science QnA | 21 August 2022,2022-08-21,5339,429,25,Aug
+59,CNN Vs Visual Cortex | The Famous Cat Experiment | History of CNN,2022-08-19,2816,209,18,Aug
+60,What is Convolutional Neural Network (CNN) | CNN Intution,2022-08-17,4656,310,38,Aug
+61,Keras Tuner | Hyperparameter Tuning a Neural Network,2022-08-11,4049,211,33,Aug
+62,How I would learn Data Science( If I had to start over! ),2022-08-09,22786,1527,158,Aug
+63,Adam Optimizer Explained in Detail with Animations | Optimizers in Deep Learning Part 5,2022-08-07,3501,164,15,Aug
+64,RMSProp Explained in Detail with Animations | Optimizers in Deep Learning Part 5,2022-08-05,1773,132,8,Aug
+65,AdaGrad Explained in Detail with Animations | Optimizers in Deep Learning Part 4,2022-08-03,2312,151,21,Aug
+66,How to Talk About Previous Data Science Projects in Interviews | Project Based Questions  Interview,2022-08-01,8123,605,38,Aug
+67,Design the Best Reward Function | Reinforcement Learning Part-6,2022-07-28,1356,42,7,Jul
+68,Nesterov Accelerated Gradient (NAG) Explained in Detail | Animations | Optimizers in Deep Learning,2022-07-26,2495,176,16,Jul
+69,How Data Science EdTech Companies are Scamming You!!!,2022-07-24,26052,1330,462,Jul
+70,Deep Learning meets Reinforcement Learning | Reinforcement Learning Part-5,2022-07-22,975,32,8,Jul
+71,SGD with Momentum Explained in Detail with Animations | Optimizers in Deep Learning Part 2,2022-07-20,3070,242,29,Jul
+72,Exponentially Weighted Moving Average or Exponential Weighted Average | Deep Learning,2022-07-18,2985,190,20,Jul
+73,Introducing Neural Networks into RL | Reinforcement Learning Part-4,2022-07-16,847,32,3,Jul
+74,Fresher Success Story | Soumik Dey | Data Analyst at Tiger Analytics | Cracked Fractal Analytics,2022-07-14,9137,352,26,Jul
+75,How do we train our first RL agent! | Reinforcement Learning Part-3,2022-07-12,1071,47,6,Jul
+76,How do RL agents really learn? | Reinforcement Learning Part-2,2022-07-08,1277,47,8,Jul
+77,Optimizers in Deep Learning | Part 1 | Complete Deep Learning Course,2022-07-06,4106,223,32,Jul
+78,But what is Reinforcement Learning? | Reinforcement Learning Part-1,2022-07-04,2928,127,15,Jul
+79,Batch Normalization in Deep Learning | Batch Learning in Keras,2022-07-01,5033,253,39,Jul
+80,Why Multicollinearity is Bad? What is Multicollinearity? How to detect and remove Multicollinearity,2022-06-29,4259,272,26,Jun
+81,What is Online Machine Learning? How is it different from Offline ML? List some of it’s applications,2022-06-29,1256,48,4,Jun
+82,Difference between convex & non-convex cost function; what happens when cost function is non-convex?,2022-06-29,1447,54,6,Jun
+83,Give an example of when False positive is more crucial than false negative and vice versa.,2022-06-29,1205,61,3,Jun
+84,Why KNN is known as a lazy learning technique?,2022-06-29,1180,40,9,Jun
+85,How do you decide when to go for deep learning for a project?,2022-06-29,1383,86,6,Jun
+86,What are the main differences between Structured and Unstructured Data?,2022-06-29,661,34,1,Jun
+87,What are the main points of difference between Bagging and Boosting?,2022-06-29,912,52,3,Jun
+88,"Imagine you are working with a laptop of 2GB RAM, how would you process a dataset of 10GB?",2022-06-29,2325,154,14,Jun
+89,Give an example where the median is a better measure than the mean.,2022-06-29,649,31,1,Jun
+90,What do you mean by the unreasonable effectiveness of data?,2022-06-29,576,17,0,Jun
+91,What do you mean by semi supervised learning?,2022-06-29,1620,44,0,Jun
+92,What is No Free Lunch Theorem in Machine Learning?,2022-06-29,709,26,0,Jun
+93,Why is 'Naïve' Bayes naïve?,2022-06-29,822,38,3,Jun
+94,What is an OOB error and how is it useful?,2022-06-29,583,18,4,Jun
+95,Why Logistic Regression is called regression?,2022-06-29,1199,55,2,Jun
+96,In what scenario decision tree should be preferred over random forest?,2022-06-29,741,36,2,Jun
+97,What is the difference between Parametric & Non-Parametric ML Algorithms?,2022-06-29,2727,117,12,Jun
+98,Good College Vs Bad College | Choro Kaam Ki Baatien,2022-06-27,1755,176,29,Jun
+99,Xavier/Glorat And He Weight Initialization in Deep Learning,2022-06-25,2292,173,18,Jun
+100,Weight Initialization Techniques | What not to do?,2022-06-23,3169,201,26,Jun
+101,What are the Assumptions of Linear Regression? With Python Code,2022-06-20,9895,554,54,Jun
+102,100 Most Common Interview Questions on Machine Learning | With Solutions,2022-06-17,7186,437,29,Jun
+103,Best Service Based Company In Data Science | Product Vs Service Based Company | Salary Details,2022-06-15,7443,573,51,Jun
+104,Relu Variants Explained | Leaky Relu | Parametric Relu | Elu | Selu | Activation Functions Part 2,2022-06-09,3164,181,16,Jun
+105,Data Science Interview Preparation Part 1 | Types of Questions Asked | CampusX Live,2022-06-08,7227,418,19,Jun
+106,100 Python Problems with Solutions for Beginners | Most Common Python Programs for Practice,2022-06-05,13999,747,58,Jun
+107,How Uber uses Machine Learning | Machine Learning Case Study,2022-06-03,6040,423,48,Jun
+108,"Activation Functions in Deep Learning | Sigmoid, Tanh and Relu Activation Function",2022-06-01,6595,281,32,Jun
+109,Breed | Episode 2 | Choro Kaam Ki Baatien,2022-05-30,3457,368,92,May
+110,Book Recommender System | Machine Learning Project | Collaborative Filtering Based Recommender Sys,2022-05-27,58812,1565,137,May
+111,News Application in Python | Inshorts Clone using Python | GUI + OOP + API Tutorial in Python,2022-05-24,6344,274,41,May
+112,How Swiggy uses Machine Learning,2022-05-21,14898,1069,176,May
+113,Regularization in Deep Learning | L2 Regularization in ANN | L1 Regularization | Weight Decay in ANN,2022-05-20,4179,232,21,May
+114,Calculator GUI Application using Python | Tkinter Tutorial | Python Mini Project,2022-05-18,4120,140,14,May
+115,SQL Case  Study | Swiggy Case Study | CampusX Live,2022-05-18,13770,572,42,May
+116,Wallpaper Viewer Application using Python | Tkinter GUI Tutorial | Mini Project,2022-05-16,2947,113,16,May
+117,Build GUIs Using Python | Python Tkinter in 30 mins | Login App GUI,2022-05-16,6820,255,20,May
+118,Dropout Layers in ANN | Code Example | Regression | Classification,2022-05-15,2379,200,11,May
+119,F*ck Convention | Choro Kaam Ki Baatien | CampusX Podcast,2022-05-14,4009,502,94,May
+120,SQL Interview Question Part 2 | CampusX Live,2022-05-14,8015,366,22,May
+121,Dropout Layer in Deep Learning | Dropouts in ANN | End to End Deep Learning,2022-05-12,3479,242,12,May
+122,Top 10 most common SQL queries | SQL Interview Questions For Data Science | CampusX Live 1,2022-05-11,21244,797,64,May
+123,20K Subscribers Milestone | Channel Updates,2022-05-07,1552,269,78,May
+124,Data Scaling in Neural Network | Feature Scaling in ANN | End to End Deep Learning Course,2022-05-05,2741,213,22,May
+125,Early Stopping In Neural Networks | End to End Deep Learning Course,2022-05-02,3899,220,27,May
+126,How to Improve the Performance of a Neural Network,2022-04-29,3673,270,23,Apr
+127,Join My Discord Community | CampusX Discord Community,2022-04-25,2772,226,46,Apr
+128,Vanishing Gradient Problem in ANN | Exploding Gradient Problem | Code Example,2022-04-17,6462,298,34,Apr
+129,Gradient Descent in Neural Networks | Batch vs Stochastics vs Mini Batch Gradient Descent,2022-04-14,4611,309,30,Apr
+130,The Story of My YouTube Failure | How I failed on YouTube | An Analytical Study using Python,2022-04-11,5746,613,235,Apr
+131,MLP Memoization | Complete Deep Learning Playlist,2022-04-09,3602,244,25,Apr
+132,Can you solve this puzzle?,2022-04-07,1984,141,58,Apr
+133,Backpropagation Part 3 | The Why | Complete Deep Learning Playlist,2022-04-05,3249,245,31,Apr
+134,Backpropagation Part 2 | The How | Complete Deep Learning Playlist,2022-04-03,5289,276,38,Apr
+135,Why I am Quitting YouTube? My last YouTube video...( April Fool's Prank),2022-04-01,8676,728,483,Apr
+136,Backpropagation in Deep Learning | Part 1 | The What?,2022-03-30,6739,424,41,Mar
+137,Data Science Interview Questions | Part 1 | Machine Learning Interview Questions,2022-03-26,19559,989,98,Mar
+138,Loss Functions in Deep Learning - Explained,2022-03-23,7081,479,45,Mar
+139,Generators in Python | Advanced Python Programming,2022-03-15,4859,226,29,Mar
+140,Iterators in Python,2022-03-13,5716,278,33,Mar
+141,Graduate Admission Prediction using ANN,2022-03-11,4165,275,26,Mar
+142,Handwritten Digit Classification using ANN | MNIST Dataset,2022-03-09,6531,334,39,Mar
+143,Customer Churn Prediction using ANN | Keras and Tensorflow | Deep Learning Classification,2022-03-07,8684,483,39,Mar
+144,Forward Propagation | How a neural network predicts output?,2022-03-05,5283,425,35,Mar
+145,MLP Notation,2022-03-03,4673,429,35,Mar
+146,Multi Layer Perceptron | MLP Intuition,2022-03-01,5835,538,70,Mar
+147,Problem with Perceptron,2022-02-27,3881,358,19,Feb
+148,Perceptron Loss Function | Hinge Loss | Binary Cross Entropy | Sigmoid Function,2022-02-25,8088,499,38,Feb
+149,Perceptron Trick | How to train a Perceptron | Perceptron Part 2 |  Deep Learning Full Course,2022-02-23,8577,529,51,Feb
+150,What is a Perceptron? Perceptron Vs Neuron | Perceptron Geometric Intuition,2022-02-21,10408,929,82,Feb
+151,Types of Neural Networks | History of Deep Learning | Applications of Deep Learning,2022-02-19,8272,805,54,Feb
+152,What is Deep Learning? Deep Learning Vs Machine Learning | Complete Deep Learning Course,2022-02-17,13352,1103,108,Feb
+153,100 Days of Deep Learning | Course Announcement,2022-02-15,30969,1413,159,Feb
+154,Duplicate Question Pairs | Quora Question Pairs | NLP Projects | End to End NLP Project | Heroku,2022-02-12,16612,526,51,Feb
+155,Higher Education in Data Science | Should you pursue higher education in Data Science?,2022-02-08,2450,142,16,Feb
+156,Data Analyst Roadmap | How to become a Data Analyst in 2022?,2022-02-05,16122,864,68,Feb
+157,Tips and Tricks to Learn Data Science Faster | How to Learn Data Science Smartly,2022-02-02,7928,622,100,Feb
+158,Live QnA Session #2 | Advise from my personal journey into Data Science,2022-01-31,2621,159,16,Jan
+159,My Top YouTube Channels for ML @Bhavesh Bhatt @Unfold Data Science @codebasics @Krish Naik,2022-01-27,6438,330,65,Jan
+160,Complete OOP in Python in 1 Video | End to End OOP in Python in 4 hours,2022-01-24,84348,2314,194,Jan
+161,POS Tagging | Part of Speech Tagging in NLP | Hidden Markov Models in NLP | Viterbi Algorithm in NLP,2022-01-21,8283,474,39,Jan
+162,"Lambda Functions in Python | Map, Filter and Reduce | Higher Order Functions in Python",2022-01-18,9371,299,16,Jan
+163,Machine Learning Roadmap 2022 | How to learn Data Science in 2022,2022-01-15,23610,1304,146,Jan
+164,Recursion using Python | Recursion with examples | Memoization,2022-01-12,6991,208,16,Jan
+165,Python Functions in 1 video,2022-01-09,11632,309,25,Jan
+166,Text Classification | NLP Lecture 6 | End to End | Average Word2Vec,2022-01-06,9654,385,30,Jan
+167,Python Deep Dive | Mutability | Garbage Collection | Variable Referencing,2022-01-02,7047,185,14,Jan
+168,Word2vec Complete Tutorial | CBOW and Skip-gram | Game of Thrones Word2vec,2021-12-30,11797,440,62,Dec
+169,Python Dictionary in 1 Video | 100 Days of Python Programming,2021-12-26,4361,109,12,Dec
+170,Python Sets in 1 Video | 100 Days of Python Programming,2021-12-25,3706,111,9,Dec
+171,Python Tuples in 1 Video | 100 Days of Python Programming,2021-12-24,3936,105,9,Dec
+172,Python Lists in 1 Video | Resuming the 100 Days of Python Programing Playlist,2021-12-23,6927,172,16,Dec
+173,10K Subs Surprises | Major Announcements | Live Stream #1 | Dec 21 2021,2021-12-22,3449,207,28,Dec
+174,10K Subscribers Milestone | Thank You All,2021-12-17,917,172,101,Dec
+175,"Text Representation | NLP Lecture 4 | Bag of Words | Tf-Idf | N-grams, Bi-grams and Uni-grams",2021-12-16,13761,534,73,Dec
+176,Text Preprocessing | NLP Course Lecture 3,2021-12-10,15939,574,67,Dec
+177,Top 10 Doubts of Data Science Job Aspirants,2021-12-06,1920,156,23,Dec
+178,End to End NLP Pipeline | NLP Pipeline | Lecture 2 NLP Course,2021-12-02,15628,913,62,Dec
+179,Top 11 NLP Projects for Portfolio | Best NLP Projects,2021-11-29,24508,962,43,Nov
+180,Introduction to NLP | NLP Lecture 1 | End to End NLP Course,2021-11-25,28383,1282,94,Nov
+181,Complete NLP Roadmap | How to become a NLP Engineer,2021-11-22,9778,541,46,Nov
+182,NLP Course Announcement,2021-11-18,3014,407,92,Nov
+183,Agglomerative Hierarchical Clustering | Python Code Example,2021-11-07,8180,295,55,Nov
+184,My Favorite Blogs For Data Science | Top 10 Blogs For Data Science,2021-11-05,2615,220,15,Nov
+185,How To Get Your First Job In Data Science | Why You Are Not Getting A Job In Data Science,2021-11-01,17762,1224,68,Nov
+186,How To Upload Dataset On Kaggle,2021-10-30,3368,148,13,Oct
+187,Everything You Need To Know About Kaggle | Kaggle For Beginners,2021-10-28,9548,502,36,Oct
+188,Complete SQL Course For Data Science | SQL For Data Science in 6 Hrs,2021-10-26,87634,2711,193,Oct
+189,Complete SQL Roadmap For Data Science | Free Course and Interview Questions For SQL,2021-10-24,27127,1426,73,Oct
+190,How To Learn Python For Data Science In 14 Days | Complete Roadmap With  Learning Resources,2021-10-22,12637,553,35,Oct
+191,What is Benford's Law | Benford's Law in Data Science,2021-10-20,2043,166,17,Oct
+192,T20 World Cup Cricket Score Predictor | Machine Learning Project,2021-10-18,9246,227,43,Oct
+193,T20 World Cup Cricket Score Prediction | Project Demo | Machine Learning Project,2021-10-16,1010,43,11,Oct
+194,IPL Win Probability Predictor Project | End to End Machine Learning Project,2021-10-14,21715,629,80,Oct
+195,IPL Win Probability Predictor Project Demo,2021-10-12,1312,80,26,Oct
+196,How To Build A Kickass Data Science Portfolio | Portfolio For Data Science,2021-10-10,8498,523,25,Oct
+197,Find Similar Game of Thrones Character using Machine Learning | Visualizing High Dimensional Data,2021-10-08,2998,95,24,Oct
+198,Top 5 Mistakes While Learning Data Science | How Not To Learn Data Science | Practical Tips,2021-10-04,8016,690,79,Oct
+199,How Many Subscribers Will I Have By 2025 | Introduction to Time Series Forecasting using Prophet,2021-10-02,2679,237,48,Oct
+200,Stacking and Blending Ensembles,2021-09-30,5067,222,32,Sep
+201,My Favorite Data Science Books,2021-09-28,8936,509,37,Sep
+202,8 Projects To Get A Data Science Job | Projects for Data Science Portfolio,2021-09-26,45959,2357,79,Sep
+203,How To Select A Project In Data Science? | 5 Tips To Select Projects In Data Science,2021-09-24,3448,269,24,Sep
+204,How to become a Rockstar Data Scientist? 4 Actionable Points,2021-09-22,10710,816,58,Sep
+205,Gradient Boosting Regression Part 2 | Mathematics of Gradient Boosting,2021-09-20,5836,209,22,Sep
+206,Machine Learning Android App | How to convert ML model to an Android App,2021-09-17,31510,856,82,Sep
+207,Which Bollywood Celebrity Are You? Deep Learning Project | End to End,2021-09-15,6176,149,16,Sep
+208,Introduction to Face Detection using MTCNN in under 30 minutes,2021-09-12,4611,128,17,Sep
+209,Gradient Boosting | How Gradient Boosting works?,2021-09-09,12333,488,62,Sep
+210,Which Bollywood Celebrity Are You? Project Teaser,2021-09-02,514,51,17,Sep
+211,Fashion Recommender System | Clothes Recommendation | Ecommerce Project,2021-09-01,34159,846,90,Sep
+212,Fashion Recommendation System | Project Teaser,2021-08-31,1193,46,19,Aug
+213,How To Deploy A Machine Learning Model On AWS EC2 | AUG 2021 Updated | ML Model To Flask Website,2021-08-28,20801,777,58,Aug
+214,K-Means Clustering Algorithm in Python | Practical Example | Student Clustering Example | sklearn,2021-08-26,9702,372,19,Aug
+215,K-Means Clustering Algorithm From Scratch In Python | ML Algorithms From Scratch,2021-08-25,7732,252,17,Aug
+216,K-Means Clustering Algorithm | Geometric Intuition | Clustering | Unsupervised Learning,2021-08-24,15063,563,37,Aug
+217,How to train a ML model on a dataset with 3 Crore rows?,2021-08-20,5333,305,16,Aug
+218,What is Out-of-core Machine Learning?,2021-08-20,1472,111,7,Aug
+219,Bagging Vs Boosting | What is the difference between Bagging and Boosting,2021-08-18,8149,340,19,Aug
+220,AdaBoost Hyperparameters | GridSearchCV in Adaboost,2021-08-17,4574,151,12,Aug
+221,AdaBoost Algorithm | Code from Scratch,2021-08-16,5686,186,20,Aug
+222,Laptop Price Predictor | Machine Learning Project,2021-08-12,40054,1128,129,Aug
+223,Laptop Price Prediction | Project Teaser 😍😍,2021-08-11,751,22,8,Aug
+224,AdaBoost Step by Step Explanation,2021-08-10,6855,288,13,Aug
+225,How Adaboost Classifier Works? | Geometric Intuition,2021-08-09,8248,306,8,Aug
+226,Posture detection using PoseNet | Machine Learning in Javascript | ml5js PoseNet | Deep Learning,2021-08-05,8420,217,21,Aug
+227,PoseNet Project Teaser | Detecting Pose using Deep Learning 😄😄😄 | Check Description for full project,2021-08-04,801,60,16,Aug
+228,Build a Chatbot in 1 hour | Python Chatbot Telegram | DialogFlow Tutorial | Chatbot Tutorial 🔥🔥🔥,2021-08-03,16067,544,41,Aug
+229,How To Build A Chatbot | Project Teaser Full Video Coming Soon,2021-08-02,524,20,6,Aug
+230,Learn to build Funny Chatbot | Subscribe,2021-08-02,3793,185,15,Aug
+231,Feature Importance using Random Forest and Decision Trees | How is Feature Importance calculated,2021-07-30,8707,281,19,Jul
+232,Software Engineering Vs Data Science | Salary Comparison | Which one should you choose?,2021-07-29,6459,211,26,Jul
+233,OOB Score | Out of Bag Evaluation in Random Forest,2021-07-28,4913,174,6,Jul
+234,Olympics Data Analysis | Data Analysis Project | Machine Learning with Deployment,2021-07-27,29428,702,85,Jul
+235,Project Teaser | Olympics Analysis Web Application | Video Dropping on 27th July 2021,2021-07-27,414,21,3,Jul
+236,Hyperparameter Tuning Random Forest using GridSearchCV and RandomizedSearchCV | Code Example,2021-07-26,7275,225,15,Jul
+237,Random Forest Hyper-parameters,2021-07-23,6317,210,15,Jul
+238,Bagging Vs Random Forest | What is the difference between Bagging and Random Forest | Very Important,2021-07-22,5837,231,16,Jul
+239,How Random Forest Performs So Well? Bias Variance Trade-Off in Random Forest,2021-07-20,4706,176,12,Jul
+240,Introduction to Random Forest | Intuition behind the Algorithm,2021-07-19,9518,284,21,Jul
+241,WhatsApp Chat Analysis Project | End to End Project with Heroku Deployment,2021-07-14,43284,991,209,Jul
+242,WhatsApp Chat Analysis Project Teaser | Video coming soon,2021-07-14,691,23,4,Jul
+243,Introduction to Ensemble Learning | Ensemble Techniques in Machine Learning,2021-07-12,12425,497,31,Jul
+244,String Functions in Python | Part 5,2021-07-12,4811,163,19,Jul
+245,String Operations in Python | Part 4,2021-07-12,3588,89,7,Jul
+246,Editing and Deleting Strings in Python | Part 3,2021-07-12,3246,88,3,Jul
+247,Accessing Substrings from a String | Indexing and Slicing in Python Strings | Part 2,2021-07-12,4058,108,3,Jul
+248,Strings in Python | Part 1,2021-07-12,4534,130,6,Jul
+249,Email Spam Classifier | SMS Spam Classifier | End to End Project | Heroku Deployment,2021-07-10,68702,1456,202,Jul
+250,Email Spam Classifier End to End Project Teaser | Full Video coming soon,2021-07-10,251,12,3,Jul
+251,Movie Recommender System Project | Content Based Recommender System with Heroku Deployment,2021-07-07,337888,7196,559,Jul
+252,Built-in Modules in Python | How to use Modules in Python,2021-07-06,6422,162,7,Jul
+253,Movie Recommender System Project -Teaser,2021-07-06,549,45,11,Jul
+254,Regression Trees | Decision Trees Part 3,2021-07-05,5013,186,11,Jul
+255,Built-in Functions in Python,2021-07-05,6425,179,5,Jul
+256,Decision Trees - Hyperparameters | Overfitting and Underfitting in Decision Trees,2021-07-03,7777,413,22,Jul
+257,Decision Trees Geometric Intuition | Entropy | Gini impurity | Information Gain,2021-07-02,15346,447,22,Jul
+258,Logistic Regression Hyperparameters || Logistic Regression Part 8,2021-06-30,5176,162,8,Jun
+259,Polynomial Features in Logistic Regression | Non Linear Logistic Regression | Logistic Regression 7,2021-06-29,3330,152,7,Jun
+260,"Break, Continue and Pass Statements in Python",2021-06-29,4099,139,5,Jun
+261,How to view Sklearn Library Source Code | Machine Learning Tips and Tricks,2021-06-29,633,27,3,Jun
+262,Softmax Regression || Multinomial Logistic Regression || Logistic Regression Part 6,2021-06-28,5895,210,10,Jun
+263,Nested Loops in Python,2021-06-28,4571,123,13,Jun
+264,For Loop In Python,2021-06-26,5286,147,7,Jun
+265,Guessing Game in Python,2021-06-25,5188,155,9,Jun
+266,"Precision, Recall and F1 Score | Classification Metrics Part 2",2021-06-24,9451,367,37,Jun
+267,While Loop in Python | Day 8 | 100 Days of Python Programming,2021-06-24,5474,160,8,Jun
+268,Accuracy and Confusion Matrix | Type 1 and Type 2 Errors | Classification Metrics Part 1,2021-06-23,10015,293,18,Jun
+269,If-else Statements in Python | Nested If-else | Day 7 | 100 Days of Python Programming,2021-06-23,6115,156,10,Jun
+270,Indentation in Python | Day 7 | 100 Days of Python Programming,2021-06-22,4760,110,5,Jun
+271,Logistic Regression Part 5 | Gradient Descent & Code From Scratch,2021-06-21,7326,243,33,Jun
+272,Operators in Python | 100 Days of Python Programming,2021-06-21,5792,144,6,Jun
+273,Literals in Python | 100 Days of Python Programming,2021-06-19,7186,189,5,Jun
+274,Derivative of Sigmoid Function,2021-06-19,4099,125,10,Jun
+275,Logistic Regression Part 4 | Loss Function | Maximum Likelihood | Binary Cross Entropy,2021-06-18,8038,278,19,Jun
+276,Type Conversion in Python,2021-06-18,5657,135,7,Jun
+277,Logistic Regression Part 3 | Sigmoid Function,2021-06-17,9523,316,35,Jun
+278,Taking user input in Python | The input function,2021-06-17,6244,151,7,Jun
+279,Logistic Regression Part 2 | Perceptron Trick Code,2021-06-16,7235,230,17,Jun
+280,Keywords and Identifiers in Python,2021-06-16,6303,169,8,Jun
+281,Logistic Regression Part 1 | Perceptron Trick,2021-06-15,17553,443,28,Jun
+282,Variables in Python | Dynamic Typing | Dynamic Binding in Python,2021-06-15,7503,210,5,Jun
+283,Comments in Python | 100 Days of Python Programming,2021-06-14,6205,134,5,Jun
+284,ElasticNet Regression | Intuition and Code Example | Regularized Linear Models,2021-06-12,3395,150,12,Jun
+285,Data Types in Python | 100 Days of Python Programming,2021-06-12,9577,220,11,Jun
+286,Why Lasso Regression creates sparsity?,2021-06-11,4248,199,9,Jun
+287,Writing the Hello World Program | Print Function in Python | 100 Days of Python Programming,2021-06-11,30783,448,38,Jun
+288,Lasso Regression | Intuition and Code Sample | Regularized Linear Models,2021-06-10,6082,218,14,Jun
+289,5 Key Points - Ridge Regression | Part 4 | Regularized Linear Models,2021-06-08,4758,186,18,Jun
+290,Ridge Regression Part 3 | Gradient Descent | Regularized Linear Models,2021-06-04,4834,158,13,Jun
+291,Ridge Regression Part 2 | Mathematical Formulation & Code from scratch | Regularized Linear Models,2021-06-03,7404,233,27,Jun
+292,Ridge Regression Part 1 | Geometric Intuition and Code | Regularized Linear Models,2021-06-02,12632,345,25,Jun
+293,Polynomial Regression,2021-05-29,11543,370,15,May
+294,Mini-Batch Gradient Descent,2021-05-26,3822,201,14,May
+295,Stochastic Gradient Descent,2021-05-25,6684,259,17,May
+296,Batch Gradient Descent,2021-05-22,9160,339,28,May
+297,Gradient Descent From Scratch | End to End Gradient Descent | Gradient Descent Animation,2021-05-21,26470,1205,158,May
+298,Multiple Linear Regression | Part 3 | Code From Scratch,2021-05-17,7200,237,22,May
+299,Multiple Linear Regression | Part 2 | Mathematical Formulation From Scratch,2021-05-15,10423,407,30,May
+300,Multiple Linear Regression | Geometric Intuition & Code,2021-05-14,12329,434,41,May
+301,"Regression Metrics | MSE, MAE & RMSE | R2 Score & Adjusted R2 Score",2021-05-13,22882,765,57,May
+302,Simple Linear Regression | Mathematical Formulation | Coding from Scratch,2021-05-11,18351,691,76,May
+303,Simple Linear Regression | Code + Intuition,2021-05-10,26722,705,53,May
+304,Principle Component Analysis(PCA) | Part 3 | Code Example and Visualization,2021-05-08,8379,327,38,May
+305,Principle Component Analysis (PCA) | Part 2 | Problem Formulation and Step by Step Solution,2021-05-07,13033,457,60,May
+306,Principle Component Analysis  (PCA) | Part 1 | Geometric Intuition,2021-05-06,15887,461,50,May
+307,Curse of Dimensionality,2021-05-05,8610,324,21,May
+308,Feature Construction | Feature Splitting,2021-05-04,7107,236,8,May
+309,Outlier Detection using the Percentile Method | Winsorization Technique,2021-05-03,6682,262,16,May
+310,Outlier Detection and Removal using the IQR Method | Handing Outliers Part 3,2021-05-01,8416,284,14,May
+311,Outlier Detection and Removal using Z-score Method | Handling Outliers Part 2,2021-04-30,10581,308,18,Apr
+312,What are Outliers | Outliers in Machine Learning,2021-04-29,11543,356,18,Apr
+313,Multivariate Imputation by Chained Equations for Missing Value | MICE Algorithm | Iterative Imputer,2021-04-28,7100,267,30,Apr
+314,KNN Imputer | Multivariate Imputation | Handling Missing Data Part 5,2021-04-27,10014,314,28,Apr
+315,Missing Indicator | Random Sample Imputation | Handling Missing Data Part 4,2021-04-26,8633,292,19,Apr
+316,Handling Missing Categorical Data | Simple Imputer | Most Frequent Imputation | Missing Category Imp,2021-04-24,8663,279,12,Apr
+317,Handling missing data | Numerical Data | Simple Imputer,2021-04-23,10712,351,36,Apr
+318,Handling Missing Data | Part 1 | Complete Case Analysis,2021-04-22,11537,413,19,Apr
+319,Handling Date and Time Variables | Day 34 | 100 Days of Machine Learning,2021-04-21,8095,380,16,Apr
+320,Handling Mixed Variables | Feature Engineering,2021-04-20,6894,290,13,Apr
+321,Binning and Binarization | Discretization | Quantile Binning | KMeans Binning,2021-04-19,10734,356,23,Apr
+322,Power Transformer | Box - Cox Transform | Yeo - Johnson Transform,2021-04-17,12294,469,30,Apr
+323,Function Transformer | Log Transform | Reciprocal Transform | Square Root Transform,2021-04-16,13438,429,22,Apr
+324,Machine Learning Pipelines A-Z | Day 29 | 100 Days of Machine Learning,2021-04-15,24397,947,109,Apr
+325,Column Transformer in Machine Learning | How to use ColumnTransformer in Sklearn,2021-04-14,19261,658,60,Apr
+326,One Hot Encoding | Handling Categorical Data | Day 27 | 100 Days of Machine Learning,2021-04-13,20504,698,42,Apr
+327,Encoding Categorical Data | Ordinal Encoding | Label Encoding,2021-04-12,17038,563,39,Apr
+328,Feature Scaling - Normalization | MinMaxScaling | MaxAbsScaling | RobustScaling,2021-04-10,15402,618,33,Apr
+329,Feature Scaling - Standardization | Day 24 | 100 Days of Machine Learning,2021-04-09,22436,840,63,Apr
+330,What is Feature Engineering | Day 23 | 100 Days of Machine Learning,2021-04-08,23682,748,39,Apr
+331,Pandas Profiling | Day 22 | 100 Days of Machine Learning,2021-04-07,11402,527,58,Apr
+332,EDA using Bivariate and Multivariate Analysis | Day 21 | 100 Days of Machine Learning,2021-04-06,17921,661,41,Apr
+333,EDA using Univariate Analysis | Day 20 | 100 Days of Machine Learning,2021-04-05,21015,687,35,Apr
+334,Understanding Your Data | Day 19 | 100 Days of Machine Learning,2021-04-03,14278,498,22,Apr
+335,Fetching data using Web Scraping | Day 18 | 100 Days of Machine Learning,2021-04-02,17378,645,58,Apr
+336,Fetching Data From an API | Day 17 | 100 Days of Machine Learning,2021-04-01,16742,704,50,Apr
+337,Working with JSON/SQL | Day 16 | 100 Days of Machine Learning,2021-03-31,11181,436,23,Mar
+338,Working with CSV files | Day 15 | 100 Days of Machine Learning,2021-03-30,15817,661,46,Mar
+339,Framing a Machine Learning Problem | How to plan a Data Science Project,2021-03-29,12390,668,40,Mar
+340,End to End Toy Project | Day 13 | 100 Days of Machine Learning,2021-03-27,17867,628,47,Mar
+341,Installing Anaconda For Data Science | Jupyter Notebook for Machine Learning | Google Colab for ML,2021-03-26,11777,532,34,Mar
+342,What are Tensors | Tensor In-depth Explanation | Tensor in Machine Learning,2021-03-25,17771,853,63,Mar
+343,Data Engineer V Data Analyst V Data Scientist V ML Engineer | Data Science Job Roles,2021-03-24,10850,602,31,Mar
+344,Machine Learning Development Life Cycle | MLDLC in Data Science,2021-03-23,13579,725,33,Mar
+345,Regression Tree Hyperparameter Tuning and Code Example,2021-03-23,1732,63,12,Mar
+346,Application of Machine Learning | Real Life Machine Learning Applications,2021-03-22,10626,748,41,Mar
+347,Image Processing using OpenCV | Part 13 | Working with Videos using OpenCV,2021-03-21,1065,15,4,Mar
+348,Image Processing using OpenCV | Part 12 | Building a Cropping Tool,2021-03-21,1620,22,1,Mar
+349,Image Processing using OpenCV | Part 10 | Working with OpenCV Events,2021-03-21,975,19,0,Mar
+350,Image Processing using OpenCV | Part 11 | Working with OpenCV Events Part 2,2021-03-21,780,12,0,Mar
+351,Image Processing using OpenCV | Part 9 | Drawing Shapes and Text on Images,2021-03-21,1071,17,3,Mar
+352,Challenges in Machine Learning | Problems in Machine Learning,2021-03-20,13204,643,32,Mar
+353,Decision Tree Hyperparameters In-depth Intuition | Decision Trees Part 8,2021-03-20,3433,210,11,Mar
+354,Awesome Decision Tree Visualization using dtreeviz library,2021-03-19,4595,199,10,Mar
+355,Instance-Based Vs Model-Based Learning | Types of Machine Learning,2021-03-19,14915,648,41,Mar
+356,Online Machine Learning | Online Learning | Online Vs Offline Machine Learning,2021-03-18,15093,724,38,Mar
+357,Gini Impurity in depth Intuition | Decision Trees | Part 4,2021-03-18,3874,120,5,Mar
+358,Bagging Ensemble | Part 3 | Bagging Regressor,2021-03-17,3715,213,5,Mar
+359,Batch Machine Learning | Offline Vs Online Learning | Machine Learning Types,2021-03-17,17549,594,23,Mar
+360,Types of Machine Learning for Beginners | Types of Machine learning in Hindi | Types of ML in Depth,2021-03-16,24717,919,61,Mar
+361,Bagging Ensemble | Part 2 | Bagging Classifiers,2021-03-16,5098,240,18,Mar
+362,AI Vs ML Vs DL for Beginners in Hindi,2021-03-15,20022,788,46,Mar
+363,Image Processing using OpenCV | Part 8 | Saving an Image,2021-03-14,924,17,2,Mar
+364,Image Processing using OpenCV | Part 7 | Cropping an Image,2021-03-14,1074,18,2,Mar
+365,Image Processing using OpenCV | Part 6 | Flipping an Image,2021-03-14,1153,25,1,Mar
+366,Image Processing using OpenCV | Part 5 | Image Resizing,2021-03-14,1427,28,1,Mar
+367,Image Processing using OpenCV | Part 4 | Playing with RGB Color Channels,2021-03-14,1961,27,0,Mar
+368,Image Processing using OpenCV | Part 3 | Converting RGB image to Grayscale,2021-03-14,2827,31,1,Mar
+369,Image Processing using OpenCV | Part 2 | Reading an Image,2021-03-14,2318,28,1,Mar
+370,Image Processing using OpenCV | Part 1 | Image Basics,2021-03-14,5905,76,3,Mar
+371,What is Machine Learning? | 100 Days of Machine Learning,2021-03-13,119491,1717,108,Mar
+372,Bagging | Introduction | Part 1,2021-03-12,8279,321,14,Mar
+373,Voting Ensemble | Regression | Part 3,2021-03-11,3528,180,7,Mar
+374,Voting Ensemble | Classification | Voting Classifier | Hard Voting Vs Soft Voting | Part 2,2021-03-10,5300,232,14,Mar
+375,Voting Ensemble |  Introduction and Core Idea | Part 1,2021-03-09,5002,240,11,Mar
+376,Session on Generative Adversarial Networks | GANs,2021-01-31,1690,64,7,Jan
+377,Thread vs Process | Threading and Multi Processing in Python Part 4,2021-01-30,652,10,1,Jan
+378,Multi-Processing | Threading and Multi Processing in Python Part 3,2021-01-29,459,4,0,Jan
+379,Thread Pool Executors | Threading And Multi Processing in Python Part 2,2021-01-28,1034,15,3,Jan
+380,Threading | Threading and Multi Processing in Python Part 1,2021-01-12,2066,40,0,Jan
+381,Bangalore House Price Prediction | Regression Project | End to End Machine Learning Projects,2021-01-03,48025,778,160,Jan
+382,Cross-validation in Machine Learning,2021-01-02,2578,99,9,Jan
+383,Car Price Predictor Project | Machine Learning | Linear Regression,2021-01-02,90392,1760,173,Jan
+384,Largest Rectangle in Histogram,2020-11-18,86,4,0,Nov
+385,Face Mask Detection using CNN | VGG16 | Keras Project,2020-11-16,15961,311,18,Nov
+386,Next Larger Element in an Array,2020-11-15,47,2,1,Nov
+387,Face Mask Detector Project  Demo| Deep Learning,2020-11-15,750,36,3,Nov
+388,Get minimum item from a stack in O(1) time,2020-11-14,27,1,1,Nov
+389,Reverse a LinkedList using Stack,2020-11-13,1653,15,3,Nov
+390,Online Stock Span Problem in Java | Stacks Problem #1,2020-11-11,55,3,1,Nov
+391,News App from Scratch | Part 1 - Course Introduction | Advance Android Tutorials,2020-10-14,152,12,4,Oct
+392,DOM Selectors | Multiple Item Selector | Javascript Fundamentals,2020-10-08,142,3,0,Oct
+393,DOM Selectors Part 1 | Single Element Selector | Javascript Fundamentals,2020-10-08,121,3,0,Oct
+394,Document Object Model | DOM | Javascript Fundamentals,2020-10-08,138,1,0,Oct
+395,The Window Object | Javascript Fundamentals,2020-10-08,187,4,0,Oct
+396,Type Conversion | Javascript Fundamentals,2020-10-08,91,1,0,Oct
+397,Operators | Javascript Fundamentals,2020-10-08,79,1,0,Oct
+398,Generals Loops | Javascript Fundamentals,2020-10-08,108,2,0,Oct
+399,Functions | Javascript,2020-10-08,113,2,0,Oct
+400,If-else statements | Javascript Fundamentals,2020-10-08,88,1,0,Oct
+401,Switch Statements | Javascript Fundamentals,2020-10-08,91,3,0,Oct
+402,General Loops | Javascript,2020-10-08,108,2,1,Oct
+403,Block and Function Level Scope | Javascript Fundamentals,2020-10-08,124,4,0,Oct
+404,Date Objects | Javascript Fundamentals,2020-10-08,86,0,0,Oct
+405,Object Literals | Javascript Fundamentals,2020-10-08,128,4,0,Oct
+406,Arrays | Javascript Fundamentals,2020-10-08,114,1,0,Oct
+407,Template Literals | Javascript,2020-10-08,107,2,0,Oct
+408,Strings | Javascript,2020-10-08,141,1,0,Oct
+409,The Math Object | Javascript Fundamentals,2020-10-08,124,2,0,Oct
+410,Variables in Javascript,2020-10-08,172,1,0,Oct
+411,Data Types in Javascript,2020-10-08,192,3,0,Oct
+412,Console in Javascript,2020-10-08,234,3,0,Oct
+413,Comments in Javascript,2020-10-08,189,3,0,Oct
+414,Introduction to Javascript | Using external javascript,2020-10-08,783,15,4,Oct
+415,Math Based Brain Game using Vanilla Javascript in 1 hour,2020-09-10,530,14,0,Sep
+416,Javascript based Math Brain Game Demo,2020-09-10,121,3,1,Sep
+417,Neural Network Notation,2020-09-06,526,23,3,Sep
+418,Prediction in Artificial Neural Network,2020-09-06,640,23,6,Sep
+419,"Guest Lecture on ""Front-end Development in MNCs""",2020-09-06,128,3,0,Sep
+420,Keras Classification Project - MNIST Digit Recognition Dataset,2020-09-06,2260,54,4,Sep
+421,Bank Churn Classification - Keras Deep Learning,2020-09-06,863,25,2,Sep
+422,Graduate Admission Prediction - Keras Regression | Deep Learning | ANN,2020-09-06,1433,24,12,Sep
+423,Session on Firebase | Building a Todo List Application,2020-08-31,334,14,0,Aug
+424,Life as a DevOps Engineer By Shomik Bose (British Telecom),2020-08-27,795,13,0,Aug
+425,Build an IRCTC clone using Bootstrap and jQuery,2020-08-19,1849,82,10,Aug
+426,Internet Protocol | Fundamentals of Web Development | Part 7,2020-08-07,467,12,7,Aug
+427,The problem of Outliers | Logistic Regression,2020-08-07,1564,40,3,Aug
+428,Sigmoid Function and Squashing | Logistic Regression,2020-08-07,2158,62,3,Aug
+429,Lists and Tables,2020-08-07,347,15,0,Aug
+430,Style and Colors,2020-08-07,297,10,1,Aug
+431,Div and Span | Block level and Inline elements,2020-08-07,335,14,2,Aug
+432,Iframe tag in HTML,2020-08-07,310,10,0,Aug
+433,Meta Tags in HTML,2020-08-07,302,13,2,Aug
+434,HTML Forms and Attributes,2020-08-07,330,14,0,Aug
+435,HTML Form Elements,2020-08-07,288,14,0,Aug
+436,Types of Input Tag,2020-08-07,281,14,0,Aug
+437,Input Tag Attributes,2020-08-07,235,16,3,Aug
+438,CSS Box Model,2020-08-07,123,3,0,Aug
+439,CSS Border Property,2020-08-07,143,3,1,Aug
+440,Float and Alignment,2020-08-07,117,1,0,Aug
+441,CSS Layouts,2020-08-07,133,2,1,Aug
+442,CSS Overflow,2020-08-07,93,1,1,Aug
+443,CSS Texts and Fonts,2020-08-07,68,0,0,Aug
+444,CSS Link States and Buttons,2020-08-07,77,0,0,Aug
+445,CSS Display Property,2020-08-07,147,2,0,Aug
+446,CSS Positioning,2020-08-07,139,1,0,Aug
+447,Perceptron from scratch using Python,2020-08-07,5874,113,12,Aug
+448,Perceptron Algorithm in Sklearn,2020-08-07,758,9,1,Aug
+449,Perceptron Trick,2020-08-07,519,16,7,Aug
+450,Perceptron Geometric Intuition,2020-08-07,293,11,1,Aug
+451,Perceptron Introduction,2020-08-07,647,18,2,Aug
+452,CSS Media Queries,2020-08-07,139,3,0,Aug
+453,CSS Grids,2020-08-07,139,3,1,Aug
+454,Backpropogation Explained,2020-08-07,61,1,1,Aug
+455,Disadvantages of Cosine Similarity,2020-08-07,325,3,0,Aug
+456,Gradient Descent from Scratch in Python,2020-08-07,164,7,0,Aug
+457,CSS Flexbox,2020-08-07,148,4,0,Aug
+458,CSS Combinators and Pseudo Elements,2020-08-07,91,2,0,Aug
+459,CSS Transformations,2020-08-07,84,1,0,Aug
+460,CSS Transitions,2020-08-07,93,1,0,Aug
+461,CSS Animation Part 2,2020-08-07,78,1,0,Aug
+462,CSS Animation Part 1,2020-08-07,121,2,0,Aug
+463,Kernel Trick in SVM | Geometric Intuition,2020-08-07,5338,163,9,Aug
+464,Kernel Trick in SVM | Code Example,2020-08-07,4716,160,15,Aug
+465,Styling Forms using CSS,2020-08-07,149,2,0,Aug
+466,Styling Tables,2020-08-07,150,4,0,Aug
+467,CSS Units,2020-08-07,158,7,0,Aug
+468,CSS Navigation Bars and Side Navigation Bars,2020-08-07,260,2,2,Aug
+469,Dropdowns in CSS,2020-08-07,321,6,1,Aug
+470,Mathematics of Support Vector Machine | Soft Margin SVM,2020-08-07,7390,217,19,Aug
+471,Support Vector Machine | Code Sample,2020-08-07,4399,98,8,Aug
+472,Mathematical Prerequisites for Deep Learning,2020-07-19,374,17,1,Jul
+473,How is the Internet so fast? | Fundamentals of Web Development | Part 12,2020-07-13,335,22,3,Jul
+474,Transmission Control Protocol (TCP) | Fundamentals of Web Development | Part 11,2020-07-13,331,9,1,Jul
+475,IPV4 Vs IPV6 | Fundamentals of Web Development | Part 8,2020-07-13,331,11,0,Jul
+476,Domain Name Server | Fundamentals of Web Development | Part 10,2020-07-13,408,15,1,Jul
+477,Public IP Vs Private IP | Fundamentals of Web Development  | Part 9,2020-07-13,420,13,4,Jul
+478,How does the Internet work? | Fundamentals of Web Development | Part 6,2020-07-13,493,9,0,Jul
+479,Peer to Peer Networks | Fundamentals of Web Development | Part 5,2020-07-13,513,17,4,Jul
+480,Client Server Architecture | Fundamentals of Web Development | Part 4,2020-07-13,800,25,2,Jul
+481,CSS Background Image Property,2020-07-10,311,7,0,Jul
+482,CSS Selectors,2020-07-10,81,1,0,Jul
+483,Comments in CSS,2020-07-10,184,4,0,Jul
+484,Implementing CSS,2020-07-10,274,8,0,Jul
+485,Introduction to CSS,2020-07-10,921,12,0,Jul
+486,Mathematics of SVM | Support Vector Machines | Hard margin SVM,2020-07-10,14919,453,45,Jul
+487,Support Vector Machines | Geometric Intuition,2020-07-10,11462,294,15,Jul
+488,Equation of a Hyper-plane in N dimensions,2020-07-10,11344,394,29,Jul
+489,Logistic Regression | Geometric Intuition,2020-07-10,3224,111,5,Jul
+490,Logictic Regression | Introduction,2020-07-10,1535,38,3,Jul
+491,"Links, Images and Attributes",2020-07-10,471,17,0,Jul
+492,"Head, Paragraph and Typography",2020-07-10,493,19,1,Jul
+493,"Doctype, Basic Layout and Comments",2020-07-10,470,19,0,Jul
+494,HTML Basic Syntax,2020-07-10,556,15,0,Jul
+495,HTML Introduction and Setup,2020-07-10,1614,32,2,Jul
+496,What is a Server? | Fundamentals of Web Development | Part 3,2020-07-09,442,23,5,Jul
+497,Email Spam Classifier | Project Ideas #4,2020-07-02,2850,52,7,Jul
+498,6 Ways To Build A Kickass Portfolio,2020-07-01,226,17,2,Jul
+499,Top 5 mistakes in Group Discussion | Freshers | Campus Placement,2020-06-30,160,14,2,Jun
+500,Components of Internet | Fundamentals of Web Development | Part 2,2020-06-30,468,20,1,Jun
+501,What is Internet? | Fundamentals of Web Development | Part 1,2020-06-26,3294,95,4,Jun
+502,Movie Recommender System | Project #4,2020-06-23,630,17,4,Jun
+503,Wallpaper Viewer Application in Android | Android Development for Beginners | [Hindi],2020-06-21,99,6,0,Jun
+504,Building a Web Browser in Android | Android Development for Beginners | [Hindi],2020-06-21,94,2,0,Jun
+505,Checkbox in Android | Android Development for Beginners | [Hindi],2020-06-21,234,5,0,Jun
+506,Context Menu in Android | Android Development for Beginners | [Hindi],2020-06-21,1145,17,2,Jun
+507,Dialog box in Android | Android Development for Beginners | [Hindi],2020-06-18,45,1,0,Jun
+508,Pop-up Menu in Android | Android Development for Beginners | [Hindi],2020-06-18,350,8,0,Jun
+509,Calculator Project | Android Development for Beginners | [Hindi],2020-06-17,77,1,0,Jun
+510,Autocomplete Text View | Android Development for Beginners | [Hindi],2020-06-17,135,3,0,Jun
+511,Creating your First Project | Android Development for Beginners,2020-06-16,245,7,2,Jun
+512,Installing Android Studio | Android Development for Beginners,2020-06-16,151,5,0,Jun
+513,Online Group Discussion | Should social media presence be considered while hiring candidates?,2020-06-15,110,3,1,Jun
+514,The Philosophy of Advertisements | Android Development for Beginners | [Hindi],2020-06-15,210,12,1,Jun
+515,The Great Android Story | Android Development for Beginners | [Hindi],2020-06-14,216,19,1,Jun
+516,The Philosophy of Open Source Software | Android Development for Beginners | [Hindi],2020-06-14,634,26,3,Jun
+517,Ridge Regression | Code and Analysis,2020-06-13,6578,86,11,Jun
+518,Introduction to Android | Android Development for Beginners | [Hindi],2020-06-13,576,18,4,Jun
+519,Quikr Car Price Predictor | Project #2 | Machine Learning,2020-06-11,1716,36,1,Jun
+520,Ridge Regression | Regularization | Mathematical Intuition,2020-06-11,2430,85,16,Jun
+521,Kth Largest Element | Algorithms in C,2020-06-11,77,2,0,Jun
+522,Tower of Hanoi | Algorithms in C,2020-06-10,67,3,0,Jun
+523,Linear Search | Algorithms in C,2020-06-10,3,0,0,Jun
+524,Quick Sort | Algorithms in C,2020-06-10,77,4,0,Jun
+525,Selection Sort | Algorithms in C,2020-06-10,42,2,0,Jun
+526,Schema Design using MySQL Workbench,2020-06-10,442,7,1,Jun
+527,Database Lecture | Creating Login & Registration,2020-06-10,352,15,1,Jun
+528,Linear Regression Part 12 | Polynomial Regression | Intuition and Code Example,2020-06-09,1051,37,1,Jun
+529,Placement Experience with Suthirtha Saha | SAP Labs | Infosys,2020-06-07,1860,34,5,Jun
+530,Session on Resume Building,2020-06-07,310,6,0,Jun
+531,CampusX - Doubt clearance on Git and Github,2020-06-07,136,8,0,Jun
+532,Problem 19. Lowest Common Ancestor in Binary Search Tree | Programming Questions for Placement,2020-06-06,13,0,0,Jun
+533,Prob 18. Sum of numbers formed by permutation of given digits | Programming Questions for Placement,2020-06-06,48,0,0,Jun
+534,Problem 17. Binary Tree to Doubly Linked List | Programming Questions for Placement Preparations,2020-06-06,162,2,0,Jun
+535,Aaj ki Philosophy | Ek Idea,2020-06-05,228,18,0,Jun
+536,Bias Variance Trade-off | Overfitting and Underfitting in Machine Learning,2020-06-05,11220,375,16,Jun
+537,Problem 16. Height of a Special Binary Tree | Programming Questions for Placement Preparation,2020-06-05,51,1,0,Jun
+538,Problem 15. Find Next Greater Palindrome | Programming Questions for Placement Preparation | CampusX,2020-06-05,2236,27,2,Jun
+539,Problem 14. Stock Buy Sell to Maximize Profit | Programming Questions for Placement Preparation,2020-06-05,58,2,0,Jun
+540,Problem 13. Nth Magic Number | Programming Questions for Placement Preparation | CampusX,2020-06-05,164,0,0,Jun
+541,Aaj ki Philosophy | Robowars ka Falsafa,2020-06-04,194,19,2,Jun
+542,Aaj ki Philosophy | Hacking ka Attitude,2020-06-04,216,22,3,Jun
+543,What is an API?,2020-06-04,103,14,0,Jun
+544,Aaj ki Philosophy | Musical Chairs,2020-06-04,236,26,2,Jun
+545,Zomato Clone | Web Development Project 1,2020-06-04,1474,32,5,Jun
+546,Problem 12. Minimum Cost Path | Programming Questions for Placement Preparation | CampusX,2020-06-03,82,0,0,Jun
+547,Problem 11. Longest Common Subsequence | Programming Questions for Placement Preparation | CampusX,2020-06-03,36,1,0,Jun
+548,Problem 10. Contiguous Sub Array with Maximum Sum | Programming Questions for Placement Preparation,2020-06-03,41,1,0,Jun
+549,Regression Project 1 - Quikr Car Price Predictor,2020-06-03,334,2,1,Jun
+550,Linear Regression Part 11 | R2 and Adjusted R2 | Coefficient of Determination,2020-06-03,1626,58,3,Jun
+551,Linear Regression Part 9 | Code Example,2020-06-02,1365,46,3,Jun
+552,Linear Regression Part  3 | General Intuition of OLS,2020-06-02,2410,80,4,Jun
+553,Problem 9. Implement Queue as a Stack | Programming Questions for Placement Preparation | CampusX,2020-06-02,13,0,0,Jun
+554,Problem 8. Implement Stack as a Queue | Programming Questions for Placement Preparation | CampusX,2020-06-02,13,0,0,Jun
+555,Problem 7. Detect and Remove Loop in Linked List | Programming Questions for Placement Preparation,2020-06-02,258,4,0,Jun
+556,Aaj ki Philosophy | Mexican Wave,2020-06-01,493,67,4,Jun
+557,Problem 6. Reverse a Linked List | Programming Videos for Placement Preparation | CampusX,2020-06-01,24,0,0,Jun
+558,Prob 5. Number of Islands in an Undirected Graph | Programming Questions for Placement Preparation,2020-06-01,19,1,0,Jun
+559,Problem 4. Remove Duplicates from a Linked List | Programming Questions for Placement Preparation,2020-06-01,43,1,0,Jun
+560,Prob 3. Find Sum of Median of Two Sorted Arrays | Programming Questions for Placement Preparation,2020-05-31,67,1,0,May
+561,Prob 2. First Non-Repeating Character in a String | Programming Questions for Placement | CampusX,2020-05-31,91,0,0,May
+562,Problem 1. Find Triplets With Zero Sum | Programming Questions for Placement Preparation | CampusX,2020-05-31,793,14,1,May
+563,Bar Charts | Logical Reasoning Part 9,2020-05-31,17,1,0,May
+564,Pie Charts | Logical Reasoning Part 8,2020-05-31,15,0,0,May
+565,Table Charts | Logical Reasoning Part 7,2020-05-31,17,1,0,May
+566,Symbols and Notations | Logical Reasoning Part 5,2020-05-31,45,1,0,May
+567,Venn Diagrams | Logical Reasoning Part 4,2020-05-31,15,0,0,May
+568,Coding and Decoding | Logical Reasoning Part 3,2020-05-31,28,1,0,May
+569,Letters and Symbols | Logical Reasoning Part 2,2020-05-31,43,1,0,May
+570,Directional Sense | Logical Reasoning Part 1,2020-05-31,62,2,0,May
+571,GPU V CPU for Deep Learning,2020-05-29,412,18,2,May
+572,Introduction to Keras,2020-05-29,458,28,4,May
+573,Linear Regression Part 4 | Ordinary Least Squares,2020-05-27,3223,88,10,May
+574,Prediction in Artificial Neural Network | Deep Learning Part 10,2020-05-26,347,17,3,May
+575,CampusX Mentorship Program,2020-05-25,639,51,4,May
+576,How to publish research papers in Machine Learning by Navoneel Chakrabarty,2020-05-24,3655,156,5,May
+577,How to become a great coder Part 13 - Be the Master of One,2020-05-23,111,9,0,May
+578,How to become a great coder Part 12 - Breadth of knowledge,2020-05-23,83,5,0,May
+579,How to become a great coder Part 11 - Document your code and learning,2020-05-23,84,5,0,May
+580,How to become a great coder Part 10 - Practice and Compete,2020-05-23,75,3,0,May
+581,How to become a great coder Part 8 - Code Readability,2020-05-23,130,3,0,May
+582,How to become a great coder Part 9 - Code in a timed environment,2020-05-23,73,1,0,May
+583,Session on how to become a great coder,2020-05-23,300,27,5,May
+584,How to become a great coder Part 7 - Debugging,2020-05-23,104,7,0,May
+585,How to become a great coder Part 6 - Concentration while programming,2020-05-23,131,9,1,May
+586,How to become a great coder Part 5 - Whiteboarding,2020-05-23,111,7,0,May
+587,How to become a great coder Part 4 - How to stay motivated?,2020-05-23,124,9,1,May
+588,How to become a great coder Part 3- Breaking your bigger problem into smaller ones,2020-05-23,166,11,1,May
+589,How to become a great coder Part 2- Problem solving attitude,2020-05-23,190,13,1,May
+590,How to become a great coder Part 1 - The learning process,2020-05-23,346,19,2,May
+591,Future and Careen Prospects in Deep Learning,2020-05-22,27,4,0,May
+592,History of Deep Learning,2020-05-21,1875,67,6,May
+593,Machine Learning Vs Deep Learning,2020-05-20,325,23,1,May
+594,Multi-layered Perceptron | Artificial Neural Networks,2020-05-18,442,13,1,May
+595,Types of Artificial Neural Network | Course on Deep Learning,2020-05-18,904,41,3,May
+596,What is a Perceptron | Neuron V Perceptron | Course on Deep Learning,2020-05-18,1084,28,1,May
+597,What is Deep Learning | Deep Learning Course,2020-05-18,494,28,0,May
+598,Course Introduction | Deep Learning,2020-05-18,914,27,3,May
+599,Classification Metrics in Machine Learning,2020-05-15,474,14,0,May
+600,Regression Trees | Regression in Decision Trees | Hindi,2020-05-13,11083,360,30,May
+601,Literals in Python | Python Tutorial #8,2020-05-11,100,2,1,May
+602,PHP and MySQL CRUD application Part 1,2020-05-11,87,1,0,May
+603,PHP and MySQL CRUD application Part 2,2020-05-11,35,1,0,May
+604,SQL queries in PHPMyAdmin,2020-05-11,382,6,1,May
+605,PHPMyAdmin for PHP and MySQL,2020-05-11,60,1,0,May
+606,SQL join queries in PHPMyAdmin,2020-05-11,479,7,1,May
+607,Session on Titanic Survival Challenge,2020-05-09,2502,47,7,May
+608,File Uploads in PHP,2020-05-09,37,0,0,May
+609,Form Handling in PHP,2020-05-09,1773,23,2,May
+610,Cookies in PHP,2020-05-09,21,0,0,May
+611,Sessions in PHP,2020-05-09,34,1,1,May
+612,Include and Redirect in PHP,2020-05-09,34,1,0,May
+613,Keywords and Identifiers in Python,2020-05-08,64,5,0,May
+614,Introduction to PHP,2020-05-08,73,1,0,May
+615,Installing Wampserver for PHP,2020-05-08,153,1,0,May
+616,Arrays in PHP,2020-05-08,19,1,0,May
+617,Functions in PHP,2020-05-08,20,1,0,May
+618,If-else and Operators in PHP,2020-05-08,27,0,0,May
+619,Strings functions in PHP,2020-05-08,21,0,0,May
+620,Loops in PHP,2020-05-08,13,0,0,May
+621,Variables in PHP,2020-05-08,29,1,0,May
+622,Switch statements and the die() function in PHP,2020-05-08,30,0,0,May
+623,Datetime functions in PHP,2020-05-08,39,0,0,May
+624,Type Conversion in Python | Python Tutorial #6,2020-05-07,70,5,0,May
+625,Handwriting Classifier using Decision Trees,2020-05-07,2093,43,3,May
+626,Operators in Java | Java Tutorial #6,2020-05-07,32,0,0,May
+627,If-else statements in Java | Java Tutorial #7,2020-05-07,23,0,0,May
+628,Loops in Java | Java Tutorial #8,2020-05-07,13,0,0,May
+629,Break and Continue in Java | Java Tutorial #9,2020-05-07,14,0,0,May
+630,Taking user input in Java | Java Tutorial #5,2020-05-07,10,0,0,May
+631,Variables in Python | Python Tutorial #5,2020-05-06,55,5,1,May
+632,CSS Selectors,2020-05-06,56,0,1,May
+633,CSS Positioning,2020-05-06,48,0,0,May
+634,CSS Layout Tutorial,2020-05-06,48,1,0,May
+635,CSS Properties Part 2,2020-05-06,44,1,0,May
+636,CSS Box Model,2020-05-06,4,0,0,May
+637,CSS Properties Part 1,2020-05-06,81,2,0,May
+638,Variables in Java | Java Tutorial #3,2020-05-06,28,0,0,May
+639,Data Types in Java | Java Tutorial #4,2020-05-06,111,1,0,May
+640,Input function in Python | Python Tutorial #4,2020-05-05,80,5,1,May
+641,Creating a Pandas Dataset from a MySQL Database | Data Gathering | Data Wrangling Step 1,2020-05-05,2000,55,5,May
+642,Data Cleaning | Data Wrangling Step 3 | Data Analysis Process,2020-05-05,2296,58,8,May
+643,EDA on Titanic Dataset | Data Analysis Process,2020-05-05,8982,200,8,May
+644,Assessing Data | Data Wrangling Step 2 | Data Analysis Process,2020-05-05,2688,71,10,May
+645,Email Spam Classifier,2020-05-05,4008,90,19,May
+646,Zomato Price Predictor,2020-05-05,565,31,2,May
+647,K Means Clustering,2020-05-05,1525,83,14,May
+648,Clustering Project | Book Recommender System,2020-05-05,16113,415,29,May
+649,Movie Review Sentiment Analysis Part 3,2020-05-05,3140,79,7,May
+650,Movie Review Sentiment Analysis Part 2,2020-05-05,5135,86,3,May
+651,Movie Review Sentiment Analysis Part 1,2020-05-05,6160,121,8,May
+652,PCA | Why Variance is important in PCA,2020-05-05,659,25,1,May
+653,PCA | Problem Formulation,2020-05-05,863,39,5,May
+654,Introduction to CSS | CSS for Beginners,2020-05-05,166,2,2,May
+655,Data types in Python | type() in Python | Python Tutorial #3 | Zero to One,2020-05-04,90,6,2,May
+656,The Print Function | Python Tutorial #2 | Python for Beginners | Zero to One,2020-05-03,164,7,1,May
+657,Introduction to Python | Python Tutorial #1 | Python for Beginners | Zero to One,2020-05-01,502,18,4,May
+658,Naive Bayes Part 9 | Handling Numerical Data,2020-04-27,2296,81,4,Apr
+659,Implementing PCA using sklearn | Principal Component Analysis | Machine Learning in Hindi,2020-04-27,2179,57,8,Apr
+660,Curse of Dimensionality | Hindi,2020-04-26,3619,63,4,Apr
+661,Session on Web Scraping | Creating a Data-set using Web scraping,2020-04-05,4427,128,8,Apr
+662,API to Pandas Dataframe | Data Gathering | Data Wrangling Step 1 | Data Analysis Process,2020-04-03,5441,154,16,Apr
+663,Linked Lists in Python | Part 9 | Deleting a node by value,2020-03-31,71,3,2,Mar
+664,Linked Lists in Python | Part 8 | Deletion from tail in a Singly Linked List,2020-03-31,31,0,0,Mar
+665,Linked List in Python | Part 7 | Deletion from head in a Singly Linked List,2020-03-31,43,1,0,Mar
+666,Making a Corona virus(Covid-19) Dashboard | Session on Dash,2020-03-30,5784,60,3,Mar
+667,Linked Lists in Python | Part 1 | Introduction to Linked Lists | Arrays Vs Linked List,2020-03-27,176,9,1,Mar
+668,Linked Lists in Python | Part 6 | Insertion through tail in a Singly Linked List | Placement Prepara,2020-03-27,60,0,1,Mar
+669,Linked Lists in Python | Part 5 | Insertion after a given node in a Singly Linked List,2020-03-27,87,4,1,Mar
+670,Linked Lists in Python | Part 4 | Traversal in a Singly Linked List | Placement Preparation,2020-03-27,73,2,1,Mar
+671,Linked Lists in Python | Part 3 | Insertion from head in a Singly Linked List | Placement Preparatio,2020-03-27,93,2,0,Mar
+672,Linked Lists in Python | Part 2 | Implementing a Single Node | Placement Preparation,2020-03-27,98,3,0,Mar
+673,Leftmost Character that doesn't Repeat,2020-03-27,18,0,0,Mar
+674,Leftmost Character that Repeats,2020-03-27,255,3,0,Mar
+675,Anagrams,2020-03-27,53,0,0,Mar
+676,Matplotlib,2020-03-26,3513,106,3,Mar
+677,Data Visualization using Seaborn | Distplots,2020-03-26,1323,58,3,Mar
+678,Data Visualization using Seaborn | Pairplots,2020-03-26,962,39,2,Mar
+679,Data Visualization using Seaborn | Jointplots,2020-03-26,1098,43,3,Mar
+680,Data Visualization using Seaborn | Clustermaps,2020-03-24,1117,46,1,Mar
+681,Data Visualization using Seaborn | Heatmaps,2020-03-24,1467,58,1,Mar
+682,Data Visualization using Seaborn | Barplots and Countplots,2020-03-24,1478,52,3,Mar
+683,Data Visualization using Seaborn | Violinplots,2020-03-23,1347,47,1,Mar
+684,Data Visualization using Seaborn | Boxplot,2020-03-23,1656,72,4,Mar
+685,Data Visualization using Seaborn | Categorical Scatterplots | Stripplots and Swarmplots,2020-03-23,2427,72,5,Mar
+686,Data Visualization using Seaborn | Scatter Plots,2020-03-22,5514,123,4,Mar
+687,Central Limit Theorem,2020-03-18,111,12,2,Mar
+688,Central Limit Theorem - Proof,2020-03-18,1618,60,10,Mar
+689,Z-score and Z-tables,2020-03-18,1769,55,3,Mar
+690,Standard Normal Variate,2020-03-18,4305,121,8,Mar
+691,Normal Distribution,2020-03-18,2112,86,3,Mar
+692,Quiz App in Android | Android Development for Beginners | [Hindi],2020-03-17,246,6,5,Mar
+693,Radio Buttons in Android | Android Development for Beginners | [Hindi],2020-03-17,51,1,0,Mar
+694,Intents in Android | Android Development for Beginners | [Hindi],2020-03-17,48,1,0,Mar
+695,Button Counter App | Android Development for Beginners | [Hindi],2020-03-16,102,3,0,Mar
+696,Simple Login App | Android Development for Beginners | [Hindi],2020-03-16,158,6,0,Mar
+697,Toasts in Android | Android Development for Beginners | [Hindi],2020-03-16,122,4,0,Mar
+698,Running our first project | Android Development for Beginners | [Hindi],2020-03-16,168,2,1,Mar
+699,Understanding the Project Structure | Android Development for Beginners | [Hindi],2020-03-16,119,2,0,Mar
+700,Android Virtual Device | Android Development for Beginners | [Hindi],2020-03-16,508,9,0,Mar
+701,Rotate a Matrix by 90,2020-03-15,21,1,0,Mar
+702,Transpose of a Matrix,2020-03-15,26,2,0,Mar
+703,Snake Pattern,2020-03-15,1260,15,0,Mar
+704,Matrix Introduction,2020-03-15,44,1,0,Mar
+705,Two Pointer Approach,2020-03-15,302,2,0,Mar
+706,Left Most Occurence Binary Search Implementation,2020-03-15,21,0,0,Mar
+707,Binary Search Recursion,2020-03-15,77,3,1,Mar
+708,Naive Bayes Classifier | Part 7 | Mathematics behind Naive Bayes Algorithm,2020-03-14,2527,96,6,Mar
+709,Naive Bayes Classifier | Part 6 | Intuition,2020-03-14,2677,88,4,Mar
+710,Naive Bayes Classifier | Part 8 | Simple Example Code,2020-03-14,4219,111,11,Mar
+711,Naive Bayes Classifier | Part 5 | Problem based upon Bayes Theorem,2020-03-14,2939,85,9,Mar
+712,Naive Bayes Classifier | Part 4 | Bayes Theorem in Probability,2020-03-14,2651,79,1,Mar
+713,Naive Bayes Classifier | Part 3 | Mutually Exclusive Events,2020-03-14,2380,46,2,Mar
+714,Naive Bayes Classifier | Part 2 | Independent Events in Probability,2020-03-14,3233,90,2,Mar
+715,Naive Bayes Classifier | Part 1 | Conditional Probability,2020-03-14,9666,167,9,Mar
+716,Linear Regression Part 8 | Gradient Descent | Multi-variable Gradient Descent,2020-03-13,1437,67,13,Mar
+717,Linear Regression Part 2 - Intuition,2020-03-13,3334,129,24,Mar
+718,Linear Regression Part 7 | Gradient Descent - Learning rate,2020-03-13,1725,66,2,Mar
+719,Linear Regression Part 6 | Gradient Descent - Finding the Loss function and it's derivative,2020-03-13,2150,46,4,Mar
+720,Linear Regression Part 5 | Gradient Descent - Intuition,2020-03-13,2680,87,9,Mar
+721,Linear Regression Part 1 - Introduction,2020-03-13,5154,128,8,Mar
+722,Leaders in an Array,2020-03-13,81,1,0,Mar
+723,Left Rotate Array By d,2020-03-13,59,2,0,Mar
+724,Maximum Sum Subarray Part 2Kadane's Algo,2020-03-13,13,1,0,Mar
+725,Count Unique Elements in Sorted Array,2020-03-13,143,2,0,Mar
+726,Maximum Sum Subarray Part 1,2020-03-13,23,1,0,Mar
+727,Left Rotate Array By One,2020-03-13,103,1,0,Mar
+728,Array Reversal Inplace,2020-03-13,56,2,0,Mar
+729,Dynamic Array Implementation in Python Part 9 | Search Operation,2020-03-11,227,8,1,Mar
+730,Dynamic Array Implementation in Python Part 8 | Pop and Clear,2020-03-11,216,6,1,Mar
+731,Dynamic Array implementation in Python Part 7 | Deletion by value,2020-03-11,242,2,1,Mar
+732,Dynamic Array Implementation in Python Part 6 | Deletion at a given index position,2020-03-11,362,6,3,Mar
+733,Dynamic Array Implementation in Python Part 5 | Insertion at given index position,2020-03-11,646,11,4,Mar
+734,Dynamic Array Implementation in Python Part 4 | Printing the Array,2020-03-11,543,3,4,Mar
+735,Dynamic Array Implementation Part 3 | Length and Fetching item using index,2020-03-11,479,5,0,Mar
+736,Dynamic Array implementation in Python Part 2 | Append Operation,2020-03-11,1536,18,6,Mar
+737,Tail Recursion,2020-03-07,58,3,0,Mar
+738,Adaboost Step 7 - Preparing data for the next stage,2020-03-06,2160,25,0,Mar
+739,Adaboost Step 9 - Repeating the steps,2020-03-06,1822,25,1,Mar
+740,Adaboost Step 10 - Working on a given query point,2020-03-06,1553,52,10,Mar
+741,Adaboost Step 4 - Calculating the weight,2020-03-06,4541,61,9,Mar
+742,Adaboost Step 5 - Adjusting the Weights,2020-03-06,2800,31,3,Mar
+743,Adaboost Step 8 - Assigning new Weights,2020-03-06,1883,18,1,Mar
+744,Adaboost Step 6 - Normalising the Weights,2020-03-06,2149,25,2,Mar
+745,Adaboost Step 3 - Choosing the best Decision Stump,2020-03-06,4223,39,2,Mar
+746,Adaboost Intuition - Part 2,2020-03-06,1448,33,1,Mar
+747,Adaboost Step 2 - Creating all the decision stumps,2020-03-06,5908,61,0,Mar
+748,Adaboost Intuition Part 1,2020-03-06,3049,43,3,Mar
+749,Adaboost Step 1 - Assigning Weights,2020-03-06,4608,42,1,Mar
+750,Studying types of data with graphs,2020-03-05,5071,165,7,Mar
+751,Types of Data in Statistics,2020-03-05,39113,889,31,Mar
+752,Descriptive Statistics Vs Inferential Statistics,2020-03-05,11665,230,6,Mar
+753,Role of Mathematics in Machine Learning,2020-03-05,5468,148,6,Mar
+754,Boosting - Intuition,2020-03-04,1223,53,3,Mar
+755,Why should we use Ensemble Techniques,2020-03-04,212,10,1,Mar
+756,Input Output in Java,2020-03-03,27,1,0,Mar
+757,Check Nth Bit is Set or Not,2020-03-03,34,0,0,Mar
+758,Count Set Bits,2020-03-03,39,1,0,Mar
+759,Modular Arithmetic,2020-03-03,32,0,0,Mar
+760,Permutations and Combinations,2020-03-03,50,2,0,Mar
+761,LCM and HCF,2020-03-03,35,0,0,Mar
+762,Counting digits of a number,2020-03-03,64,1,0,Mar
+763,Bitwise Left Shift Right Shift Unsigned Right Shift,2020-03-03,712,7,0,Mar
+764,Mean and Median,2020-03-03,182,3,0,Mar
+765,Bitwise AND and OR operator,2020-03-03,90,0,0,Mar
+766,Bitwise XOR Operator,2020-03-03,12,0,0,Mar
+767,Random Forest Intuition,2020-03-03,313,13,1,Mar
+768,Analysis of Algorithm - Part 1,2020-03-02,112,3,0,Mar
+769,Analysis of Algorithms - Part 2,2020-03-02,46,4,0,Mar
+770,Bagging (Bootstrap Aggregation) - Intuition,2020-03-02,526,30,1,Mar
+771,Ensemble Techniques in Machine Learning,2020-03-02,468,20,3,Mar
+772,Algorithm Complexity - Big O Notation,2020-02-22,153,8,2,Feb
+773,Binary Search Tree Implementation,2020-02-21,154,4,0,Feb
+774,Deep Dive - Object Oriented Programming Part 2,2020-02-20,1487,57,8,Feb
+775,Deep Dive - Object Oriented Programming Part 1,2020-02-20,4022,126,19,Feb
+776,Dictionary and Recursion,2020-02-19,267,11,1,Feb
+777,"Lists, Tuples and Mutability",2020-02-18,274,12,0,Feb
+778,Some important numpy functions,2020-02-14,3516,128,4,Feb
+779,Entity Relationship Diagram (ERD) using LucidChart,2020-02-13,778,7,0,Feb
+780,InfyTQ Day 9 Problem 43 Fundamentals of Python,2020-02-11,614,3,0,Feb
+781,InfyTQ Day 9 Problem 44 Fundamentals of Python,2020-02-11,875,3,2,Feb
+782,InfyTQ Day 9 Problem 42 Fundamentals of Python,2020-02-11,582,8,0,Feb
+783,InfyTQ Day 9 Problem 41 Fundamentals of Python,2020-02-11,807,3,1,Feb
+784,InfyTQ Day 8 Problem 40 Fundamentals of Python,2020-02-11,567,3,0,Feb
+785,InfyTQ Day 8 Problem 39 Fundamentals of Python,2020-02-11,323,0,0,Feb
+786,InfyTQ Day 7 Problem 38 Fundamentals of Python,2020-02-11,565,3,0,Feb
+787,InfyTQ Day 7 Problem 36 Fundamentals of Python,2020-02-11,332,2,0,Feb
+788,InfyTQ Day 7 Problem 35 Fundamentals of Python,2020-02-11,491,1,0,Feb
+789,InfyTQ Day 7 Problem 34 Fundamentals of Python,2020-02-11,392,0,0,Feb
+790,InfyTQ Day 7 Problem 33 Fundamentals of Python,2020-02-11,339,0,0,Feb
+791,InfyTQ Day 6 Problem 31 Fundamentals of Python,2020-02-11,389,2,0,Feb
+792,InfyTQ Day 6 Problem 30 Fundamentals of Python,2020-02-11,299,2,0,Feb
+793,InfyTQ Day 6 Problem 29 Fundamentals of Python,2020-02-11,260,0,0,Feb
+794,InfyTQ Day 6 Problem 28 Fundamentals of Python,2020-02-11,328,1,0,Feb
+795,InfyTQ Day 6 Problem 27 Fundamentals of Python,2020-02-11,325,1,1,Feb
+796,InfyTQ Day 5 Problem 25 Fundamentals of Python,2020-02-11,351,2,0,Feb
+797,InfyTQ Day 5 Problem 24 Fundamentals of Python,2020-02-11,343,0,0,Feb
+798,InfyTQ Day 5 Problem 23 Fundamentals of Python,2020-02-11,360,1,0,Feb
+799,InfyTQ Day 5 Problem 22 Fundamentals of Python,2020-02-11,398,1,0,Feb
+800,Session on Git and Github,2020-02-10,1983,71,7,Feb
+801,SQL Queries in Depth Part 2,2020-02-07,342,2,2,Feb
+802,InfyTQ Day 4 Problem 21 Fundamentals of Python,2020-02-05,448,6,1,Feb
+803,InfyTQ Day 4 Problem 20 Fundamentals of Python,2020-02-05,406,1,0,Feb
+804,InfyTQ Day 4 Problem 19 Fundamentals of Python,2020-02-05,480,1,0,Feb
+805,InfyTQ Day 4 Problem 18 Fundamentals of Python,2020-02-05,449,2,0,Feb
+806,InfyTQ Day 3 Problem 17 Fundamentals of Python,2020-02-05,480,6,0,Feb
+807,InfyTQ Day 3 Problem 16 Fundamentals of Python,2020-02-05,624,7,1,Feb
+808,InfyTQ Day 3 Problem 15 Fundamentals of Python,2020-02-05,548,4,1,Feb
+809,InfyTQ Day 3 Problem 14 Fundamentals of Python,2020-02-05,497,1,0,Feb
+810,InfyTQ Day 3 Problem 13 Fundamentals of Python,2020-02-05,562,3,0,Feb
+811,InfyTQ Day 3 Problem 12 Fundamentals of Python,2020-02-05,722,2,1,Feb
+812,InfyTQ Day 3 Problem 11 Fundamentals of Python,2020-02-05,769,8,0,Feb
+813,InfyTQ Day 2 Problem 10 Fundamentals of Python,2020-02-05,1455,15,0,Feb
+814,InfyTQ Day 2 Problem 9 Fundamentals of Python,2020-02-05,1200,7,1,Feb
+815,InfyTQ Day 2 Problem 8  Fundamentals of Python,2020-02-05,29,0,0,Feb
+816,InfyTQ Day 2 Problem 7 Fundamentals of Python,2020-02-05,1020,5,0,Feb
+817,InfyTQ Day 1 Problem 6 Fundamentals of Python,2020-02-04,815,4,0,Feb
+818,InfyTQ Day 1 Problem 5 Fundamentals of Python,2020-02-04,861,2,0,Feb
+819,InfyTQ Day 1 Problem 4 Fundamentals of Python,2020-02-04,1962,8,0,Feb
+820,SQL Queries in Depth Part 1,2020-02-04,1052,18,0,Feb
+821,Postgres on AWS | Database Lecture,2020-01-25,846,20,4,Jan
+822,Data Engineer vs Data Analyst Vs Data Scientist Vs ML Engineer,2020-01-22,686,30,2,Jan
+823,Hyper-parameter Tuning using GridSearchCV | Decision Trees Part 8,2020-01-15,11319,275,25,Jan
+824,Deploying a Flask application on AWS Elastic Beanstalk in under 15 mins,2020-01-14,2842,41,16,Jan
+825,Setting up Postgres on AWS RDS,2020-01-12,417,9,1,Jan
+826,Overfitting in Decision Trees | Decision Tree Part 6,2020-01-10,5901,148,10,Jan
+827,Visualizing a Decision Tree | Decision Tree Part 5,2020-01-09,2494,78,6,Jan
+828,Importance of Soft Skills for Engineering Graduates | My Placement Story,2020-01-08,1106,60,1,Jan
+829,Handling Numerical values in Decision Trees | Decision Tree Part 4,2020-01-07,3751,103,5,Jan
+830,CampusX Website Launch,2020-01-06,216,9,0,Jan
+831,Student Hackathon on Data Analysis and Machine Learning | Hackathons@CampusX,2020-01-03,261,9,0,Jan
+832,Information Gain | Decision Trees Part 3,2020-01-02,3861,89,6,Jan
+833,Python for Machine Learning | Part 4,2019-12-24,442,13,1,Dec
+834,Python for Machine Learning | Part 3,2019-12-22,380,15,1,Dec
+835,Python for Machine Learning | Part 2,2019-12-22,511,14,0,Dec
+836,Python for Machine Learning - Part 1,2019-12-21,1356,43,5,Dec
+837,Insertion Sort | Algorithms in C,2019-12-18,48,0,0,Dec
+838,Binary Search | Algorithms in C,2019-12-18,67,0,0,Dec
+839,Linear Search | Algorithms in C,2019-12-13,71,2,0,Dec
+840,Space and Time Complexity | Algorithms in C,2019-12-13,515,8,0,Dec
+841,Introduction to Graph Data Structure | Data Structures in C,2019-12-13,131,3,1,Dec
+842,Constructing a Binary Tree | Data Structures in C,2019-12-09,68,2,0,Dec
+843,Search operation in Binary Search Tree | Data Structures in C,2019-12-08,63,0,0,Dec
+844,Deletion in Binary Search Tree | Data Structures in C,2019-12-05,613,15,1,Dec
+845,Linked List and Array representation of Binary Trees | Data Structures in C,2019-11-26,284,3,0,Nov
+846,Introduction to Tree Data Structures | Data Structures in C,2019-11-26,70,0,0,Nov
+847,Introduction to Dequeue | Data Structures in C,2019-11-22,158,5,1,Nov
+848,Introduction to Queues | Data Structures in C,2019-11-22,42,0,0,Nov
+849,Infix to Postfix Conversion | Data Structures in C,2019-11-22,146,3,0,Nov
+850,Entropy in Decision Trees,2019-11-17,5054,143,5,Nov
+851,Stack as a Linked List | Data Structures in C,2019-11-17,55,0,0,Nov
+852,Stack as an array | Data Structures in C,2019-11-17,70,1,0,Nov
+853,Introduction to Stacks | Data Structures in C,2019-11-17,66,0,0,Nov
+854,Implementing and Traversing a Doubly Linked List | Data Structures in C,2019-11-15,867,20,1,Nov
+855,Recursive counting in Linked Lists | Data Structures in C,2019-11-15,62,0,0,Nov
+856,Adding a node to  Circular Linked List | Data Structures in C,2019-11-15,35,0,0,Nov
+857,Deletion in Singly Linked List | Data Structures in C,2019-11-14,55,0,0,Nov
+858,Insertion in Singly Linked List | Data Structures in C,2019-11-13,159,2,1,Nov
+859,Linked Lists and its types | Data Structures in C,2019-11-13,287,7,2,Nov
+860,Web Scraping task description,2019-11-12,178,7,0,Nov
+861,Decision Trees - Introduction and Geometric Intuition,2019-11-11,7899,168,10,Nov
+862,How to deploy a Machine Learning model,2019-11-06,3439,105,3,Nov
+863,Creating a Login and Registration system using Flask,2019-11-03,52799,986,122,Nov
+864,Basic functions in Matplotlib,2019-10-31,223,3,2,Oct
+865,Pandas Part 21 - The fillna() method,2019-10-30,3414,110,13,Oct
+866,Pandas Part 20 - The dropna() method,2019-10-30,7328,144,10,Oct
+867,Pandas Part 19 - The set_index() and reset_index(),2019-10-30,8717,174,12,Oct
+868,K Nearest Neighbors Part 10 - Weighted KNN,2019-10-30,11656,244,15,Oct
+869,Course Road-map for November - HIT Batch 1,2019-10-29,52,3,0,Oct
+870,K Nearest Neighbors Part 9 - Hyper-parameters,2019-10-29,4324,89,4,Oct
+871,Pandas Part 18 - The rename function,2019-10-23,2231,57,2,Oct
+872,Pandas Part 17 - The corr function,2019-10-23,5552,110,11,Oct
+873,Pandas Part 16 - Applying Pivot Table to IPL Dataset,2019-10-22,2678,67,6,Oct
+874,Pandas Part 15 - Pandas Pivot Table,2019-10-22,3151,96,7,Oct
+875,Pandas Part 14 - The merge function,2019-10-22,3667,110,12,Oct
+876,Pandas Part 13 - The isin() function,2019-10-22,5135,102,19,Oct
+877,K Nearest Neighbors Part 6 - Building a KNN Classifier from scratch,2019-10-22,4870,100,8,Oct
+878,Milestone Project: Working with a MySQL database in Python,2019-10-21,410,12,5,Oct
+879,Tableau Basics Part 10,2019-10-21,321,8,0,Oct
+880,Tableau Basics Part 11,2019-10-21,395,15,4,Oct
+881,Tableau Basics Part 9,2019-10-21,302,4,0,Oct
+882,Tableau Basics Part 8,2019-10-21,347,7,0,Oct
+883,Tableau Basics Part 7,2019-10-21,308,4,0,Oct
+884,Tableau Basics Part 6,2019-10-21,364,6,0,Oct
+885,Tableau Basics Part 5,2019-10-21,451,7,0,Oct
+886,Tableau Basics Part 4,2019-10-21,457,7,0,Oct
+887,Tableau Basics Part 3,2019-10-21,567,7,1,Oct
+888,Tableau Basics Part 2,2019-10-21,731,9,0,Oct
+889,Tableau Basics Part 1,2019-10-21,2576,39,3,Oct
+890,K Nearest Neighbors Part 5 - Effect of K on Decision Boundary,2019-10-18,2204,69,7,Oct
+891,Pandas Part 12 - Groupby on IPL Dataset,2019-10-17,5511,155,15,Oct
+892,Pandas Part 11- The Groupby() function,2019-10-16,7237,148,27,Oct
+893,K Nearest Neighbors Part 4 - Decision Boundary for Knn,2019-10-16,7266,152,22,Oct
+894,Pandas Part 10 - The drop_duplicates() method,2019-10-14,4749,139,11,Oct
+895,Pandas Part 9 - The sort_values() method,2019-10-14,4128,103,3,Oct
+896,Pandas Part 8 - Series Operations,2019-10-14,4297,98,6,Oct
+897,K Nearest Neighbors Part 3 - Working with a Real world dataset,2019-10-14,2552,71,4,Oct
+898,K Nearest Neighbors Part 2 - Working with a Real world dataset,2019-10-14,3835,94,14,Oct
+899,K Nearest Neighbors Part 1 - Introduction and Geometric Intuition,2019-10-13,6399,165,6,Oct
+900,Pandas Part 7 - The Plot function,2019-10-11,4511,120,5,Oct
+901,Dash Part 2 - Installation and Project Setup,2019-10-10,616,14,1,Oct
+902,Dash Part 5 - Adding Scatterplot/Boxplot to Dash Dashboard,2019-10-10,743,12,4,Oct
+903,Dash Part 4 - Creating a layout using Dash,2019-10-10,503,8,2,Oct
+904,Dash Part 3 - Creating a basic web page using Dash,2019-10-10,578,10,3,Oct
+905,Dash Part 1 - Introduction to Dash,2019-10-10,1220,23,1,Oct
+906,Plotly tutorial for beginners,2019-10-10,4365,110,13,Oct
+907,Pandas Part 6 - The value_counts() function,2019-10-10,4844,102,4,Oct
+908,Pandas Part 5 - Filtering dataframe on a condition | Masking using boolean series,2019-10-10,7489,179,11,Oct
+909,Pandas Part 4 - Fetching rows and columns using iloc,2019-10-10,6250,137,4,Oct
+910,Pandas Part 3 - Important functions and attributes,2019-10-09,6041,143,5,Oct
+911,Pandas Part 2 - Importing data using read_csv(),2019-10-09,6402,109,5,Oct
+912,Pandas Part 1 - Introduction to Pandas,2019-10-09,12409,214,19,Oct
+913,Kick-starting Cycle 2 - Supervised Machine Learning,2019-10-09,56,2,0,Oct
+914,Downloading .ipynb(jupyter notebook) file from Google Colab,2019-10-03,13086,37,9,Oct
+915,Introduction to Git and Github: Part 2 - Pushing your code to Github using Git,2019-10-03,1374,37,1,Oct
+916,Git & Github: Part 1- Introduction to Git and Github,2019-10-03,2117,53,6,Oct
+917,Milestone Project #2: Data Analytics Dashboard | Problem Statement,2019-10-03,203,9,0,Oct
+918,Numpy Part 12 - Broadcasting,2019-09-30,4106,111,7,Sep
+919,Deploying a Dash application on Heroku in under 15 minutes | Step by Step Tutorial,2019-09-30,8505,132,13,Sep
+920,Numpy Part 11 - Plotting graphs using Numpy,2019-09-27,3234,82,1,Sep
+921,How to submit a task in Google Classroom,2019-09-26,98,2,0,Sep
+922,Numpy Part 10 - Indexing with Boolean Arrays,2019-09-26,4429,113,5,Sep
+923,Numpy Part 9 - Fancy indexing in Numpy,2019-09-26,4199,78,2,Sep
+924,Numpy Part 8 - Reshaping Numpy arrays,2019-09-26,3364,110,6,Sep
+925,An Introduction to Machine Learning,2019-09-25,1085,61,8,Sep
+926,Numpy Part 7 - Numpy Operations,2019-09-25,4047,114,3,Sep
+927,"Numpy Part 6 - Indexing, Slicing and Iteration",2019-09-25,4820,150,14,Sep
+928,Numpy Part 5 - Python Lists Vs Numpy Arrays,2019-09-24,4538,129,7,Sep
+929,Numpy Part 4 - Some Important Attributes,2019-09-24,5215,223,34,Sep
+930,How to use Google Classroom as a student,2019-09-23,69,1,0,Sep
+931,Numpy Part 3 - Creating N-d Arrays,2019-09-23,6237,134,3,Sep
+932,Numpy Part 2 - Installing Jupyter Notebook,2019-09-23,4542,75,2,Sep
+933,Numpy Part 1 - Introduction to Numpy,2019-09-23,11040,234,8,Sep
+934,The Data Analysis Process,2019-09-22,9063,183,12,Sep
+935,Orientation Program - HIT CampusX Mentorship Program,2019-09-21,155,3,1,Sep
+936,Measurement of Asymmetry - Skewness,2019-08-27,567,7,0,Aug
+937,Role of Machine Learning in Regulatory Tech Part 3,2019-08-12,43,0,0,Aug
+938,Role of Machine Learning in Regulatory Tech Part 2,2019-08-12,36,0,0,Aug
+939,Role of Machine Learning in Regulatory Tech Part 4,2019-08-12,29,1,0,Aug
+940,Role of Machine Learning in Regulatory Tech Part 1,2019-08-11,180,2,0,Aug
+941,How to use CDF in our analysis,2019-08-10,1508,44,2,Aug
+942,How to calculate PDF and CDF,2019-08-10,2710,70,12,Aug
+943,Cumulative Distribution Function,2019-08-09,1711,37,2,Aug
+944,Probability Density Function,2019-08-09,2565,81,6,Aug
+945,Descriptive Statistics - Measures of Spread,2019-08-08,2769,93,18,Aug
+946,Descriptive Statistics - Measures of Central Tendency,2019-08-08,2731,84,8,Aug
+947,Descriptive Statistics - Visualization Techniques,2019-08-06,4693,134,15,Aug
